@@ -1,0 +1,4 @@
+C:\Users\Konrad\Desktop\Lab4\Zadanie5\Zadanie5\obj\Debug\net8.0\Zadanie5.fsproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\Lab4\Zadanie5\Zadanie5\obj\Debug\net8.0\Zadanie5.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\Lab4\Zadanie5\Zadanie5\obj\Debug\net8.0\Zadanie5.AssemblyInfo.fs
+C:\Users\Konrad\Desktop\Lab4\Zadanie5\Zadanie5\obj\Debug\net8.0\Zadanie5.fsproj.CoreCompileInputs.cache
